@@ -3,3 +3,5 @@
 *.svg
 **/.ipynb_checkpoints
 **/.idea
+**/data
+**/01_maxout-pytorch-master
