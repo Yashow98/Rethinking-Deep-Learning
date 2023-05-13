@@ -2,3 +2,4 @@
 *.pth
 *.svg
 **/.ipynb_checkpoints
+**/.idea
