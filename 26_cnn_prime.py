@@ -1,6 +1,6 @@
 # @Time    : 4/27/2023 4:49 PM
 # @Author  : Yashowhoo
-# @File    : 26cnn_prime.py
+# @File    : 26_cnn_prime.py
 # @Description :重新思考卷积
 import torch
 import torch.nn as nn
