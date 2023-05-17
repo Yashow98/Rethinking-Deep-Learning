@@ -1,7 +1,7 @@
-# @Time    : 4/9/2023 10:17 AM
 # @Author  : Yashowhoo
 # @File    : 04_transform.py
 # @Description :
+
 import torch
 from torchvision import datasets
 from torchvision.transforms import ToTensor, Lambda

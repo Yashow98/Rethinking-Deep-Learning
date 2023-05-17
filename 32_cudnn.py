@@ -1,7 +1,7 @@
-# @Time    : 5/2/2023 7:46 PM
 # @Author  : Yashowhoo
 # @File    : 32_cudnn.py
 # @Description :
+
 import torch
 
 print(torch.backends.cudnn.version())

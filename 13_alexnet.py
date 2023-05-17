@@ -1,7 +1,7 @@
-# @Time    : 4/12/2023 5:06 PM
 # @Author  : Yashowhoo
 # @File    : 13_alexnet.py
 # @Description :
+
 import torch
 from torch import nn
 from torch.utils.data import DataLoader

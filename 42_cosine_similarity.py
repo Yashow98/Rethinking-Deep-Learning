@@ -1,7 +1,7 @@
-# @Time    : 5/15/2023 6:08 PM
 # @Author  : Yashowhoo
 # @File    : 42_cosine_similarity.py
 # @Description :
+
 import numpy as np
 from numpy import linalg
 import torch

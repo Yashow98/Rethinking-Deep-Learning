@@ -1,7 +1,7 @@
-# @Time    : 4/12/2023 8:43 PM
 # @Author  : Yashowhoo
 # @File    : 14_vgg.py
 # @Description :
+
 import torch
 from torch import nn
 from torch.utils.data import DataLoader

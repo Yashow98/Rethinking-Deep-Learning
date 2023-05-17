@@ -1,7 +1,7 @@
-# @Time    : 4/13/2023 11:23 AM
 # @Author  : Yashowhoo
 # @File    : 18_resnet.py
 # @Description :
+
 import torch
 from torch import nn
 from torch.nn import functional as F

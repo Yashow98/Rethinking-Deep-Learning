@@ -1,7 +1,7 @@
-# @Time    : 4/13/2023 3:44 PM
 # @Author  : Yashowhoo
 # @File    : 19_densenet.py
 # @Description :
+
 import torch
 from torch import nn
 from torch.utils.data import DataLoader

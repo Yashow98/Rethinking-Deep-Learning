@@ -1,8 +1,8 @@
-# @Time    : 5/14/2023 10:08 AM
 # @Author  : Yashowhoo
 # @File    : 41_memonger.py
 # @Description :By replacing nn.Sequential with memonger.SublinearSequential,
 # the memory required for backward is reduced from O(N) to O(sqrt(N)).
+
 import torch
 from torch import nn
 import memonger

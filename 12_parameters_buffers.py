@@ -1,7 +1,7 @@
-# @Time    : 4/12/2023 7:40 AM
 # @Author  : Yashowhoo
 # @File    : 12_parameters_buffers.py
 # @Description :
+
 import torch
 from torch import nn
 

@@ -1,7 +1,7 @@
-# @Time    : 4/27/2023 8:33 PM
 # @Author  : Yashowhoo
 # @File    : 27_flatten.py
 # @Description :
+
 import torch
 import torch.nn as nn
 

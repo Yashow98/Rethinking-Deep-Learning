@@ -1,7 +1,7 @@
-# @Time    : 5/4/2023 10:01 PM
 # @Author  : Yashowhoo
 # @File    : 35_position_encoding.py
 # @Description :4种position embedding
+
 import torch
 import torch.nn as nn
 

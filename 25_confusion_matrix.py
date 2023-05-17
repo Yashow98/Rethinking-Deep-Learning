@@ -1,4 +1,3 @@
-# @Time    : 4/23/2023 3:36 PM
 # @Author  : Yashowhoo
 # @File    : 25_confusion_matrix.py
 # @Description :

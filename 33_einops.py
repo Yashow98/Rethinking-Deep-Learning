@@ -1,8 +1,8 @@
-# @Time    : 5/2/2023 8:11 PM
 # @Author  : Yashowhoo
 # @File    : 33_einops.py
 # @Description :Flexible and powerful tensor operations for readable and reliable code.
 # Supports numpy, pytorch, tensorflow, jax, and others.
+
 import torch
 from einops import rearrange, reduce, repeat
 

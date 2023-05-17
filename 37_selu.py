@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*- 
 """
-Created on Sun Jun 11 14:46:31 2017
-
-@author: danny
+@author: Yashowhoo
 """
 import torch
 import numpy as np
@@ -35,12 +32,12 @@ class alpha_drop(nn.Module):
             return x
         else:
             random_tensor  = self.keep_prob + torch.rand(x.size())
-            
+
             binary_tensor = Variable(torch.floor(random_tensor))
 
             if torch.cuda.is_available():
                 binary_tensor = binary_tensor.cuda()
-            
+
             x = x.mul(binary_tensor)
             ret = x + self.alpha * (1-binary_tensor)
             ret.mul_(self.a).add_(self.b)

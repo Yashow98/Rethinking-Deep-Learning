@@ -1,7 +1,7 @@
-# @Time    : 5/14/2023 9:34 AM
 # @Author  : Yashowhoo
 # @File    : 40_thop.py
 # @Description :
+
 import torch
 from torchvision import models
 from thop import profile, clever_format

@@ -1,7 +1,7 @@
-# @Time    : 4/8/2023 9:45 PM
 # @Author  : Yashowhoo
 # @File    : 02_tensor_ops.py
 # @Description :
+
 import torch
 
 a = torch.rand((2, 3))

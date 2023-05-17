@@ -1,7 +1,7 @@
-# @Time    : 4/18/2023 9:00 PM
 # @Author  : Yashowhoo
 # @File    : 23_pretrain.py
 # @Description :
+
 import torch
 import torch.nn as nn
 from torchvision import models

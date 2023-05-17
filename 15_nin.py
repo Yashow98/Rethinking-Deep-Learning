@@ -1,7 +1,7 @@
-# @Time    : 4/12/2023 10:13 PM
 # @Author  : Yashowhoo
 # @File    : 15_nin.py
 # @Description :
+
 import torch
 from torch import nn
 from torch.utils.data import DataLoader

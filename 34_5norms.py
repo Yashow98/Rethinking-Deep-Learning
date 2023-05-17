@@ -1,7 +1,7 @@
-# @Time    : 5/4/2023 8:38 PM
 # @Author  : Yashowhoo
 # @File    : 34_5norms.py
 # @Description :
+
 import torch
 import torch.nn as nn
 

@@ -1,7 +1,7 @@
-# @Time    : 4/11/2023 4:29 PM
 # @Author  : Yashowhoo
 # @File    : 10_Jacobian.py
 # @Description :
+
 import torch
 from torch.autograd.functional import jacobian
 

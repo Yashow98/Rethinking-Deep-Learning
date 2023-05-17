@@ -1,7 +1,7 @@
-# @Time    : 4/16/2023 8:46 PM
 # @Author  : Yashowhoo
 # @File    : 20_pillow.py
 # @Description :
+
 from PIL import Image
 
 im = Image.open('./src/glass1.jpg')  # return an image obj

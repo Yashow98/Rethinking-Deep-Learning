@@ -1,7 +1,7 @@
-# @Time    : 4/17/2023 4:26 PM
 # @Author  : Yashowhoo
 # @File    : 22_ptflops.py
 # @Description :
+
 import torchvision.models as models
 import torch
 from ptflops import get_model_complexity_info

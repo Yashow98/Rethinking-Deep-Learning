@@ -1,7 +1,7 @@
-# @Time    : 4/12/2023 11:06 PM
 # @Author  : Yashowhoo
 # @File    : 16_googlenet.py
 # @Description :
+
 import torch
 from torch import nn
 from torch.nn import functional as F

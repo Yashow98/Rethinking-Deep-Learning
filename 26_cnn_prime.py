@@ -1,7 +1,7 @@
-# @Time    : 4/27/2023 4:49 PM
 # @Author  : Yashowhoo
 # @File    : 26_cnn_prime.py
-# @Description :重新思考卷积
+# @Description :
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

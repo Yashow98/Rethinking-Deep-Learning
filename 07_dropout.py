@@ -1,7 +1,7 @@
-# @Time    : 4/9/2023 10:35 AM
 # @Author  : Yashowhoo
 # @File    : 07_dropout.py
 # @Description :
+
 import torch
 from torch import nn
 

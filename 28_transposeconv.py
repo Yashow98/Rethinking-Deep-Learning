@@ -1,7 +1,7 @@
-# @Time    : 4/27/2023 8:59 PM
 # @Author  : Yashowhoo
 # @File    : 28_transposeconv.py
 # @Description :
+
 import torch
 import torch.nn as nn
 

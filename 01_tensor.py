@@ -1,7 +1,7 @@
-# @Time    : 4/8/2023 9:10 PM
 # @Author  : Yashowhoo
 # @File    : 01_tensor.py
 # @Description :
+
 import torch
 import numpy as np
 

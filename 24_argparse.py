@@ -1,7 +1,7 @@
-# @Time    : 4/18/2023 9:55 PM
 # @Author  : Yashowhoo
 # @File    : 24_argparse.py
 # @Description :
+
 import argparse
 
 

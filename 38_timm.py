@@ -1,4 +1,3 @@
-# @Time    : 5/12/2023 3:38 PM
 # @Author  : Yashowhoo
 # @File    : 38_timm.py
 # @Description :timm is a deep-learning library created by Ross Wightman and is a collection of
